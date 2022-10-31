@@ -1,4 +1,4 @@
-import {FaCalendarAlt, FaCertificate} from "react-icons/fa";
+
 
 
 function AfterNimbly() {
@@ -6,11 +6,11 @@ function AfterNimbly() {
     
       <div className="after-nimbly">
 
-        <h1><FaCertificate className="fa-certificate fa-icon"/><span id="education"> Education</span> </h1>
+        <h1><span id="education"> Education</span> </h1>
         <div className="bachelor">
         <h2> Bachelor's Degree | Accra Institute of Technology, Ghana</h2>
 
-        <p className="micro"> <FaCalendarAlt className="fa-icon"/> 2013- 2016 </p>
+        <p className="micro">  2013- 2016 </p>
 
         <h4 > Overall Best Graduating Student award </h4>
 
@@ -28,7 +28,7 @@ function AfterNimbly() {
         <hr/>
         <div className="diploma">
           <h2> Diploma | Highland College of Technology, Nigeria</h2>
-          <p className="micro"> <FaCalendarAlt className="fa-icon"/> 2010-2012 </p>
+          <p className="micro">  2010-2012 </p>
           <ul>
             <li> Upper Credit in Software Engineering </li>
             <li>Took classes in C++, Java, PHP, Database(SQL Sever, Mysql),Virtual Basic </li>
@@ -40,14 +40,14 @@ function AfterNimbly() {
         <div className="machine-learning">
           <h1> Machine Learning | Coursera</h1>
           <p className="micro">
-          <FaCalendarAlt className="fa-icon"/> 2016
+           2016
           </p>
           <p> AI & Machine Learning </p>
         </div> {/* End of machine-learning */}
 
         <div className="system-security">
           <h2> System Security | ISACA</h2>
-          <p className="micro fa-calender"> <FaCalendarAlt className="fa-icon"/> 2015</p>
+          <p className="micro fa-calender">2015</p>
           <p> System Security Awareness</p>
         </div> {/* End of system-security */}
 

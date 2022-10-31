@@ -6,7 +6,7 @@ function Topprojects() {
   return (
     <div className="top-projects">
       
-      <h1><FaSuitcase className="fa-suitcase"/>Top 5 Latest Projects </h1>
+      <h1>Top 5 Latest Projects </h1>
 <div className="topprojectone">
 <div>
       <p className="h2">
@@ -14,7 +14,7 @@ function Topprojects() {
       </p>
 
       <p className="micro">
-         <FaTint className="fa-tint"/>Microservices developed
+         Microservices developed
       </p>
 
       <ul>
@@ -54,7 +54,7 @@ function Topprojects() {
       <div>
         
         <h2 className="h2"> Full stack Web Developer | CBT.NG </h2>
-        <p className="micro"> <FaTint className="fa-tint"/> Top Features </p>
+        <p className="micro">  Top Features </p>
 
         <ul>
           <li> Hyper secure User management system </li>
@@ -108,7 +108,7 @@ function Topprojects() {
       <div>
         <h2 className="h2"> Team Member (Backend) | myrewin </h2>
         <p className="micro">
-        <FaTint className="fa-tint"/> Top Task Done
+        Top Task Done
         </p>
         <ul>
           <li> Real-time Voice enabled quoting system </li>
@@ -151,7 +151,7 @@ function Topprojects() {
           
           Software Developer (Backend) | csmtschools.com.ng{" "}
         </h2>
-        <p className="micro"> <FaTint className="fa-tint"/> Top Task Done </p>
+        <p className="micro"> Top Task Done </p>
         <ul>
           <li> Student management system</li>
           <li> Graph / Chart data representation display</li>
@@ -187,7 +187,7 @@ function Topprojects() {
       <div className="topprojectfive">
       <div>
         <h2 className="h2"> Software Developer, Afridemics.com</h2>
-        <p className="micro"> <FaTint className="fa-tint"/> Top Features </p>
+        <p className="micro">  Top Features </p>
         <ul>
           <li> Higher Institution Registration & Programming linking </li>
           <li> Institution private customized admin panel</li>
@@ -228,7 +228,7 @@ function Topprojects() {
           Software Developer (FUll stack) | Organization management System
           (Enteprise Edition)
         </h2>
-        <p className="micro"> <FaTint className="fa-tint"/> Top Features</p>
+        <p className="micro"> Top Features</p>
         <ul>
           <li> Employee management</li>
           <li> Task management</li>
